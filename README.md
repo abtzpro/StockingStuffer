@@ -7,16 +7,6 @@ All placeholder values within the script where chosen at random by AI. This was 
 ## What is StockingStuffer?
 This script assists investors with their decision-making process, using machine learning models to predict stock prices, and guiding investors in buying, selling or holding stocks. It focuses specifically on the AMCR stock but can be customized for other stocks.
 
-## Dependencies
-
-You'll need the following Python libraries:
-
-- `yfinance`: Fetches historical market data from Yahoo Finance.
-- `sklearn`: Offers data preprocessing capabilities and the Linear Regression model.
-- `tensorflow`: Provides the LSTM model for prediction.
-- `statsmodels`: Provides the ARIMA model for prediction.
-- `numpy` and `pandas`: Used for data manipulation.
-
 ## How It Works
 
 1. **Fetch Historical Data**: The script fetches historical data for the given ticker from Yahoo Finance.
