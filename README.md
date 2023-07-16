@@ -90,3 +90,6 @@ Remember, always do your own research and consider seeking advice from a financi
 ## Conclusion
 
 This script is a helpful tool for guiding investment decisions, but it's not a substitute for professional investment advice. Always do your own research or consult with a financial advisor before making investment decisions.
+
+## Developed By: 
+https://abtzpro.github.io
