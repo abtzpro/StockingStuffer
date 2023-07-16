@@ -1,5 +1,5 @@
 # StockingStuffer
-The Tri-AI Driven, LSTM NN Based, Stock Market Assistant 
+The Tri-AI (3 AIs working in collaboration) Driven, LSTM NN (Neural Network) Based, Stock Market Assistant 
 
 ## Important Note
 All placeholder values within the script where chosen at random by AI. This was done purposefuly so as to randomize the baseline to prevent targeted abuse of the script. 
